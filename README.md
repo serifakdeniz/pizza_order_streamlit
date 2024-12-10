@@ -1,6 +1,6 @@
 # pizza_order_streamlit project
 
-#Dosyayı çalıştırmak için  önce  venv ile aşağıdaki gibi bir proje simi oluşturun dosyaları içine ekleyin ve sonra çalıştırın.
+#Dosyayı çalıştırmak için  önce  venv ile aşağıdaki gibi bir proje ismi oluşturun dosyaları içine ekleyin ve sonra çalıştırın.
 
 1) py -m venv pizzaorder
 
