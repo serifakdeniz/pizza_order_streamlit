@@ -1,9 +1,13 @@
-# pizza_order_streamlit
+# pizza_order_streamlit project
 
-#py -m venv pizzaorder
+#Dosyayı çalıştırmak için  önce  venv ile aşağıdaki gibi bir proje simi oluşturun dosyaları içine ekleyin ve sonra çalıştırın.
 
-cd  pizzaorder
+1) py -m venv pizzaorder
 
-pip install requirements.txt
+2) pizzaorder\Scripts\activate.bat
 
-streamlit run Anasayfa.py
+3) cd pizzaorder
+ 
+5) pip install requirements.txt
+
+6) streamlit run Anasayfa.py
